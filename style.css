@@ -3281,7 +3281,7 @@ h1#site-name {
   font-variant: small-caps; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003310}}
-#header-region .block-inner {
+#header-region {
   background-color: purple; }
 
 /*# sourceMappingURL=style.css.map */
