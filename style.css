@@ -3274,4 +3274,8 @@ input.submit {
 h3.name-remove {
   display: none; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003298}}
+h1#site-name {
+  bottom-margin: 5px; }
+
 /*# sourceMappingURL=style.css.map */
