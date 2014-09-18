@@ -3278,7 +3278,6 @@ h3.name-remove {
 h1#site-name {
   padding-bottom: -50px;
   bottom-margin: -50px;
-  font-variant: small-caps;
-  text-transform: lowercase; }
+  font-variant: small-caps; }
 
 /*# sourceMappingURL=style.css.map */
