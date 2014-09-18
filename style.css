@@ -3270,4 +3270,8 @@ input.submit {
   background-image: linear-gradient(to bottom,#63C222, #56a81d);
   box-shadow: 0px 0px 0px 2pt #030404; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003292}}
+h4.no-name {
+  display: none; }
+
 /*# sourceMappingURL=style.css.map */
