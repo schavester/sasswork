@@ -3329,6 +3329,9 @@ h3.name-remove {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003331}}
 h2.block-title {
-  font-size: 99%; }
+  font-size: 99%;
+  background: #FFB34D;
+  padding-top: 10px;
+  padding-bottom: 10px; }
 
 /*# sourceMappingURL=style.css.map */
