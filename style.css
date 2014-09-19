@@ -1,13 +1,17 @@
 @import url(http://fonts.googleapis.com/css?family=IM+Fell+Double+Pica+SC:400normal);
 @import url(http://fonts.googleapis.com/css?family=Faster+One:400normal);
+@import url(http://fonts.googleapis.com/css?family=Noto+Serif:700bolditalic);
 @import url(http://fonts.googleapis.com/css?family=IM+Fell+Double+Pica+SC:400normal);
 @import url(http://fonts.googleapis.com/css?family=Faster+One:400normal);
+@import url(http://fonts.googleapis.com/css?family=Noto+Serif:700bolditalic);
 @import url(http://fonts.googleapis.com/css?family=IM+Fell+Double+Pica+SC:400normal);
 @import url(http://fonts.googleapis.com/css?family=IM+Fell+Double+Pica+SC:400normal);
 @import url(http://fonts.googleapis.com/css?family=Faster+One:400normal);
+@import url(http://fonts.googleapis.com/css?family=Noto+Serif:700bolditalic);
 @import url(http://fonts.googleapis.com/css?family=IM+Fell+Double+Pica+SC:400normal);
 @import url(http://fonts.googleapis.com/css?family=IM+Fell+Double+Pica+SC:400normal);
 @import url(http://fonts.googleapis.com/css?family=Faster+One:400normal);
+@import url(http://fonts.googleapis.com/css?family=Noto+Serif:700bolditalic);
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/components\/neat\/grid\/_grid\.scss}line{font-family:\000032}}
 * {
   -moz-box-sizing: border-box;
@@ -3156,7 +3160,13 @@ body {
   font-weight: normal;
   font-size: 130%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\0000372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\0000371}}
+#site-name {
+  font-family: "Noto Serif", serif;
+  font-weight: bold;
+  font-style: italic; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\0000380}}
 .even {
   background-color: #ccccff; }
 
@@ -3274,14 +3284,9 @@ input.submit {
 h3.name-remove {
   display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003298}}
-h1#site-name {
-  padding-bottom: -50px;
-  bottom-margin: -50px;
-  font-variant: small-caps; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003308}}
 #header-region {
-  background-color: purple; }
+  clear: none;
+  float: right; }
 
 /*# sourceMappingURL=style.css.map */
