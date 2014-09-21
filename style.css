@@ -3192,9 +3192,10 @@ ul.bustour-list {
   padding-bottom: 10px;
   padding-right: 10px;
   margin-left: 1em;
-  margin-right: 1em; }
+  margin-right: 1em;
+  box-shadow: red 2px 2px 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003118}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003120}}
 li {
   padding-right: 10px;
   padding-left: 10px;
@@ -3208,7 +3209,7 @@ li {
       -ms-hyphens: auto;
           hyphens: auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003130}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003132}}
 li.bustour-list-item a {
   right-margin: 10px;
   left-margin: 10px;
@@ -3217,15 +3218,15 @@ li.bustour-list-item a {
   top-padding: 3em;
   bottom-padding: 3em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003142}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003144}}
 li:first-child {
   border-top: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003146}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003148}}
 li:last-child {
   border-bottom: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003151}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003153}}
 p.p-indent {
   margin-top: 0em;
   margin-bottom: 1em;
