@@ -3230,11 +3230,11 @@ p.p-indent {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003146}}
 #main {
-  background: cornsilk; }
+  background: #FFFADF; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003152}}
 .container {
-  background: coral; }
+  background: #FFFADF; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003196}}
 input.f99 {
@@ -3366,5 +3366,11 @@ h2.block-title {
   background: #FFB34D;
   padding-top: 10px;
   padding-bottom: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003340}}
+.container {
+  background-color: white;
+  background-image: -webkit-linear-gradient(left, white, #fff8dc);
+  background-image: linear-gradient(to right,white, #fff8dc); }
 
 /*# sourceMappingURL=style.css.map */
