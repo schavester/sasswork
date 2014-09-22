@@ -3193,9 +3193,15 @@ ul.bustour-list {
   padding-right: 10px;
   margin-left: 1em;
   margin-right: 1em;
-  box-shadow: #FFDFDF 5px 5px 10px; }
+  box-shadow: #BEBEBE 2px 2px 10px;
+  border-radius: 6px 6px 6px 6px;
+  -moz-border-radius: 6px 6px 6px 6px;
+  -webkit-border-top-left-radius: 6px;
+  -webkit-border-top-right-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+  -webkit-border-bottom-left-radius: 6px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003120}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003122}}
 li {
   padding-right: 10px;
   padding-left: 10px;
@@ -3207,7 +3213,7 @@ li {
       -ms-hyphens: auto;
           hyphens: auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003132}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003134}}
 li.bustour-list-item {
   border-top: 1px dotted #3c3c3c;
   right-margin: 10px;
@@ -3217,15 +3223,15 @@ li.bustour-list-item {
   top-padding: 3em;
   bottom-padding: 3em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003159}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003161}}
 li:first-child {
   border-top: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003163}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003165}}
 li:last-child {
   border-bottom: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003168}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003170}}
 p.p-indent {
   margin-top: 0em;
   margin-bottom: 1em;
@@ -3372,7 +3378,13 @@ h2.block-title {
   background-color: white;
   background-image: -webkit-linear-gradient(top, white, #FFF2DF);
   background-image: linear-gradient(to bottom,white, #FFF2DF);
-  box-shadow: #FF7D4D 2px 2px 10px; }
+  box-shadow: #FF7D4D 2px 2px 10px;
+  border-radius: 6px 6px 6px 6px;
+  -moz-border-radius: 6px 6px 6px 6px;
+  -webkit-border-top-left-radius: 6px;
+  -webkit-border-top-right-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+  -webkit-border-bottom-left-radius: 6px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003350}}
 body {
@@ -3402,5 +3414,18 @@ input.node-add-to-cart.form-submit {
   background-image: -webkit-linear-gradient(top, #FFFADF, #fff5c0);
   background-image: linear-gradient(to bottom,#FFFADF, #fff5c0);
   box-shadow: 0px 0px 0px 2pt #ff5f5f; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003362}}
+#superfish-2 {
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFB34D);
+  background-image: linear-gradient(to bottom,white, #FFB34D);
+  box-shadow: #BEBEBE 2px 2px 10px;
+  border-radius: 6px 6px 6px 6px;
+  -moz-border-radius: 6px 6px 6px 6px;
+  -webkit-border-top-left-radius: 6px;
+  -webkit-border-top-right-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+  -webkit-border-bottom-left-radius: 6px; }
 
 /*# sourceMappingURL=style.css.map */
