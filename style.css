@@ -3371,7 +3371,8 @@ h2.block-title {
 #name-and-slogan {
   background-color: white;
   background-image: -webkit-linear-gradient(top, white, #FFF2DF);
-  background-image: linear-gradient(to bottom,white, #FFF2DF); }
+  background-image: linear-gradient(to bottom,white, #FFF2DF);
+  box-shadow: #FF7D4D 2px 2px 10px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003350}}
 body {
@@ -3401,4 +3402,5 @@ input.node-add-to-cart.form-submit {
   background-image: -webkit-linear-gradient(top, #FFFADF, #fff5c0);
   background-image: linear-gradient(to bottom,#FFFADF, #fff5c0);
   box-shadow: 0px 0px 0px 2pt #ff5f5f; }
+
 /*# sourceMappingURL=style.css.map */
