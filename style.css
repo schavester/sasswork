@@ -3647,6 +3647,11 @@ input.form-submit {
       padding: 0.5em;
       border-left: 1px solid #FFDFDF;
       border-top: 1px solid #FFDFDF;
-      border-bottom: 0px; }
+      border-bottom: 0px;
+      text-align: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003574}}
+td.data-col {
+  text-align: right; }
 
 /*# sourceMappingURL=style.css.map */
