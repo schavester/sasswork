@@ -3482,18 +3482,18 @@ input.form-submit {
   cursor: pointer;
   outline: none;
   box-shadow: 0px 1px 3px #384C4F;
-  background: #63C222;
-  background-color: #63C222;
-  background-image: -webkit-linear-gradient(top, #63C222, #4d971a);
-  background-image: linear-gradient(to bottom,#63C222, #4d971a);
+  background: #FF4D4D;
+  background-color: #FF4D4D;
+  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff1a1a);
+  background-image: linear-gradient(to bottom,#FF4D4D, #ff1a1a);
   -webkit-transition: all 50s cubic-bezier(0.55, 0.055, 0.675, 0.19);
   transition: all 50s cubic-bezier(0.55, 0.055, 0.675, 0.19);
-  background-color: #63C222;
-  background-image: -webkit-linear-gradient(top, #63C222, #519f1c);
-  background-image: linear-gradient(to bottom,#63C222, #519f1c);
-  background-color: #63C222;
-  background-image: -webkit-linear-gradient(top, #63C222, #56a81d);
-  background-image: linear-gradient(to bottom,#63C222, #56a81d);
+  background-color: #FF4D4D;
+  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff2424);
+  background-image: linear-gradient(to bottom,#FF4D4D, #ff2424);
+  background-color: #FF4D4D;
+  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff2e2e);
+  background-image: linear-gradient(to bottom,#FF4D4D, #ff2e2e);
   box-shadow: 0px 0px 0px 2pt #030404; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003413}}
@@ -3506,18 +3506,18 @@ input.form-submit {
   cursor: pointer;
   outline: none;
   box-shadow: 0px 1px 3px #384C4F;
-  background: #63C222;
-  background-color: #63C222;
-  background-image: -webkit-linear-gradient(top, #63C222, #4d971a);
-  background-image: linear-gradient(to bottom,#63C222, #4d971a);
+  background: #FF4D4D;
+  background-color: #FF4D4D;
+  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff1a1a);
+  background-image: linear-gradient(to bottom,#FF4D4D, #ff1a1a);
   -webkit-transition: all 50s cubic-bezier(0.55, 0.055, 0.675, 0.19);
   transition: all 50s cubic-bezier(0.55, 0.055, 0.675, 0.19);
-  background-color: #63C222;
-  background-image: -webkit-linear-gradient(top, #63C222, #519f1c);
-  background-image: linear-gradient(to bottom,#63C222, #519f1c);
-  background-color: #63C222;
-  background-image: -webkit-linear-gradient(top, #63C222, #56a81d);
-  background-image: linear-gradient(to bottom,#63C222, #56a81d);
+  background-color: #FF4D4D;
+  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff2424);
+  background-image: linear-gradient(to bottom,#FF4D4D, #ff2424);
+  background-color: #FF4D4D;
+  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff2e2e);
+  background-image: linear-gradient(to bottom,#FF4D4D, #ff2e2e);
   box-shadow: 0px 0px 0px 2pt #030404; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003424}}
@@ -3602,80 +3602,56 @@ input.form-submit {
     border-radius: 3px;
     cursor: pointer; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003507}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003509}}
 .order-review-table {
-  border: 1px solid #F22121;
+  border: 1px solid #FFDFDF;
   border-left: 0px;
   border-collapse: separate;
   border-spacing: 0;
   border-radius: 6px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003523}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003526}}
   .order-review-table tbody {
-    background-color: #f55151; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003525}}
-    .order-review-table tbody tr:hover > td, .order-review-table tbody tr:hover > th {
-      background-color: #f33939; }
+    background-color: white; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003528}}
+    .order-review-table tbody tr:hover > td, .order-review-table tbody tr:hover > th {
+      background-color: #ffe5e5; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003531}}
     .order-review-table tbody tr:nth-child(even) {
-      background-color: #f43e3e; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003530}}
+      background-color: #ffebeb; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003533}}
       .order-review-table tbody tr:nth-child(even):hover > td {
-        background-color: #f22626; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003535}}
+        background-color: #ffd1d1; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003538}}
   .order-review-table thead:first-of-type tr:first-child > th:first-child {
     border-top-left-radius: 6px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003539}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003542}}
   .order-review-table thead:first-of-type tr:first-child > th:last-child {
     border-top-right-radius: 6px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003545}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003548}}
   .order-review-table tbody:last-child tr:last-child > td:first-child {
     border-bottom-left-radius: 6px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003549}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003552}}
   .order-review-table tbody:last-child tr:last-child > td:last-child {
     border-bottom-right-radius: 6px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003554}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003557}}
   .order-review-table thead th {
-    background-color: #f88181;
+    background-color: white;
     padding: 0.5em;
-    border-left: 1px solid #F22121;
+    border-left: 1px solid #FFDFDF;
     border-bottom: 0px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003561}}
-  .order-review-table tbody {
-    background-color: #f55151; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003564}}
+  .order-review-table tbody {
+    background-color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003567}}
     .order-review-table tbody td {
       padding: 0.5em;
-      border-left: 1px solid #F22121;
-      border-top: 1px solid #F22121;
+      border-left: 1px solid #FFDFDF;
+      border-top: 1px solid #FFDFDF;
       border-bottom: 0px;
       text-align: left; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003575}}
-th.products {
-  background-color: #FFFADF; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003578}}
-th.qty {
-  background-color: cornsilk; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003581}}
-th.price {
-  background-color: #FFF2DF; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003585}}
-td.products {
-  background-color: #FFFADF; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003588}}
-td.qty {
-  background-color: cornsilk; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003591}}
-td.price {
-  background-color: #FFF2DF; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003595}}
-td.panel-title-row {
-  background-color: #FF7D4D; }
+table.order-review-table {
+  box-shadow: black 2px 2px 10px; }
 
 /*# sourceMappingURL=style.css.map */
