@@ -3650,4 +3650,12 @@ input.form-submit {
       border-bottom: 0px;
       text-align: left; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003575}}
+td.products {
+  background-color: #FFB34D; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003578}}
+th.products {
+  background-color: #FFC84D; }
+
 /*# sourceMappingURL=style.css.map */
