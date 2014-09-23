@@ -3604,7 +3604,7 @@ input.form-submit {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003509}}
 .order-review-table {
-  border: 1px solid #FFDFDF;
+  border: 1px solid #FF9200;
   border-left: 0px;
   border-collapse: separate;
   border-spacing: 0;
@@ -3614,13 +3614,13 @@ input.form-submit {
     background-color: white; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003528}}
     .order-review-table tbody tr:hover > td, .order-review-table tbody tr:hover > th {
-      background-color: #ffe5e5; }
+      background-color: #fff4e5; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003531}}
     .order-review-table tbody tr:nth-child(even) {
-      background-color: #ffebeb; }
+      background-color: #fff6eb; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003533}}
       .order-review-table tbody tr:nth-child(even):hover > td {
-        background-color: #ffd1d1; }
+        background-color: #ffebd1; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003538}}
   .order-review-table thead:first-of-type tr:first-child > th:first-child {
     border-top-left-radius: 6px; }
@@ -3637,7 +3637,7 @@ input.form-submit {
   .order-review-table thead th {
     background-color: white;
     padding: 0.5em;
-    border-left: 1px solid #FFDFDF;
+    border-left: 1px solid #FF9200;
     border-bottom: 0px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003564}}
   .order-review-table tbody {
@@ -3645,13 +3645,17 @@ input.form-submit {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003567}}
     .order-review-table tbody td {
       padding: 0.5em;
-      border-left: 1px solid #FFDFDF;
-      border-top: 1px solid #FFDFDF;
+      border-left: 1px solid #FF9200;
+      border-top: 1px solid #FF9200;
       border-bottom: 0px;
       text-align: left; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003575}}
 table.order-review-table {
   box-shadow: black 2px 2px 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003581}}
+h2.pane-title {
+  font-size: 80%; }
 
 /*# sourceMappingURL=style.css.map */
