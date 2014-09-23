@@ -3669,7 +3669,6 @@ li.twitter-list-item {
      -moz-hyphens: auto;
       -ms-hyphens: auto;
           hyphens: auto;
-  border-top: 1px dotted #3c3c3c;
   right-margin: 10px;
   left-margin: 10px;
   top-margin: 3em;
@@ -3679,14 +3678,20 @@ li.twitter-list-item {
   box-shadow: black 2px 2px 10px;
   border-radius: 6px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003609}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003608}}
 li.views-row-even {
-  background-color: transparent;
-  background-image: -webkit-linear-gradient(top, transparent, #FFFADF);
-  background-image: linear-gradient(to bottom,transparent, #FFFADF); }
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFFADF);
+  background-image: linear-gradient(to bottom,white, #FFFADF);
+  padding: 1em;
+  magin: 1em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003612}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003613}}
 li.views-row-odd {
-  background-color: #FFDFDF; }
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  padding: 1em;
+  magin: 1em; }
 
 /*# sourceMappingURL=style.css.map */
