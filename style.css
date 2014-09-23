@@ -3481,20 +3481,20 @@ input.form-submit {
   font-size: 18px;
   cursor: pointer;
   outline: none;
-  box-shadow: 0px 1px 3px #384C4F;
-  background: #FF4D4D;
-  background-color: #FF4D4D;
-  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff1a1a);
-  background-image: linear-gradient(to bottom,#FF4D4D, #ff1a1a);
+  box-shadow: 0px 1px 3px black;
+  background: #FF9200;
+  background-color: #FF9200;
+  background-image: -webkit-linear-gradient(top, #FF9200, #cc7500);
+  background-image: linear-gradient(to bottom,#FF9200, #cc7500);
   -webkit-transition: all 50s cubic-bezier(0.55, 0.055, 0.675, 0.19);
   transition: all 50s cubic-bezier(0.55, 0.055, 0.675, 0.19);
-  background-color: #FF4D4D;
-  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff2424);
-  background-image: linear-gradient(to bottom,#FF4D4D, #ff2424);
-  background-color: #FF4D4D;
-  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff2e2e);
-  background-image: linear-gradient(to bottom,#FF4D4D, #ff2e2e);
-  box-shadow: 0px 0px 0px 2pt #030404; }
+  background-color: #FF9200;
+  background-image: -webkit-linear-gradient(top, #FF9200, #d67b00);
+  background-image: linear-gradient(to bottom,#FF9200, #d67b00);
+  background-color: #FF9200;
+  background-image: -webkit-linear-gradient(top, #FF9200, #e08000);
+  background-image: linear-gradient(to bottom,#FF9200, #e08000);
+  box-shadow: 0px 0px 0px 2pt black; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003413}}
 #edit-cancel {
@@ -3505,20 +3505,20 @@ input.form-submit {
   font-size: 18px;
   cursor: pointer;
   outline: none;
-  box-shadow: 0px 1px 3px #384C4F;
-  background: #FF4D4D;
-  background-color: #FF4D4D;
-  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff1a1a);
-  background-image: linear-gradient(to bottom,#FF4D4D, #ff1a1a);
+  box-shadow: 0px 1px 3px white;
+  background: #FF9200;
+  background-color: #FF9200;
+  background-image: -webkit-linear-gradient(top, #FF9200, #cc7500);
+  background-image: linear-gradient(to bottom,#FF9200, #cc7500);
   -webkit-transition: all 50s cubic-bezier(0.55, 0.055, 0.675, 0.19);
   transition: all 50s cubic-bezier(0.55, 0.055, 0.675, 0.19);
-  background-color: #FF4D4D;
-  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff2424);
-  background-image: linear-gradient(to bottom,#FF4D4D, #ff2424);
-  background-color: #FF4D4D;
-  background-image: -webkit-linear-gradient(top, #FF4D4D, #ff2e2e);
-  background-image: linear-gradient(to bottom,#FF4D4D, #ff2e2e);
-  box-shadow: 0px 0px 0px 2pt #030404; }
+  background-color: #FF9200;
+  background-image: -webkit-linear-gradient(top, #FF9200, #d67b00);
+  background-image: linear-gradient(to bottom,#FF9200, #d67b00);
+  background-color: #FF9200;
+  background-image: -webkit-linear-gradient(top, #FF9200, #e08000);
+  background-image: linear-gradient(to bottom,#FF9200, #e08000);
+  box-shadow: 0px 0px 0px 2pt #bfbfbf; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003424}}
 .feildset-wrapper {
