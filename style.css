@@ -3654,8 +3654,39 @@ input.form-submit {
 table.order-review-table {
   box-shadow: black 2px 2px 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003581}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003585}}
 h2.pane-title {
   font-size: 80%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003590}}
+li.twitter-list-item {
+  padding-right: 10px;
+  padding-left: 10px;
+  font-size: 75%;
+  font-weight: normal;
+  line-height: 115%;
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+  border-top: 1px dotted #3c3c3c;
+  right-margin: 10px;
+  left-margin: 10px;
+  top-margin: 3em;
+  bottom-margin: 3em;
+  top-padding: 3em;
+  bottom-padding: 3em;
+  box-shadow: black 2px 2px 10px;
+  border-radius: 6px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003609}}
+li.views-row-even {
+  background-color: transparent;
+  background-image: -webkit-linear-gradient(top, transparent, #FFFADF);
+  background-image: linear-gradient(to bottom,transparent, #FFFADF); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003612}}
+li.views-row-odd {
+  background-color: #FFDFDF; }
 
 /*# sourceMappingURL=style.css.map */
