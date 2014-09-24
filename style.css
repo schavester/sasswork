@@ -3724,4 +3724,8 @@ p.nineteen {
 p.blog-teaser {
   font-size: 60%; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003650}}
+.submitted {
+  display: none; }
+
 /*# sourceMappingURL=style.css.map */
