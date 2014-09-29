@@ -3249,6 +3249,61 @@ p.p-indent {
   margin-bottom: 1em;
   text-indent: 0; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003199}}
+.colmask {
+  position: relative;
+  overflow: hidden;
+  margin: 0px auto;
+  width: 100%;
+  background-color: #b4d2f7; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003207}}
+.colmid {
+  position: relative;
+  width: 100%;
+  right: 23%;
+  background-color: #b4d2f7; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003214}}
+.colleft {
+  position: relative;
+  width: 100%;
+  right: 41%;
+  background-color: #b4d2f7; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003221}}
+.col1 {
+  position: relative;
+  overflow: hidden;
+  float: left;
+  width: 39%;
+  left: 101%;
+  background-color: #99ccff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003230}}
+.col2 {
+  position: relative;
+  overflow: hidden;
+  float: left;
+  width: 34%;
+  left: 26%;
+  background-color: #99ccff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003239}}
+.col3 {
+  position: relative;
+  overflow: hidden;
+  float: left;
+  width: 21%;
+  left: 69%;
+  background-color: #99ccff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003249}}
+.header {
+  float: left;
+  width: 100%;
+  background-color: #f4f4f4; }
+
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003199}}
 input.f99 {
   border-radius: 4px;
