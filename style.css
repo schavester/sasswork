@@ -3346,6 +3346,20 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003297}}
+ul.primary li a .tab {
+  display: block;
+  height: 1em;
+  margin: .5em;
+  padding: .75em;
+  border-width: .25em;
+  line-height: 1em;
+  border-radius: 10px;
+  background-color: red;
+  background-image: -webkit-linear-gradient(top, red, green);
+  background-image: linear-gradient(to bottom,red, green);
+  box-shadow: #2F3329 2px 2px 10px; }
+
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003199}}
 input.f99 {
   border-radius: 4px;
@@ -4051,15 +4065,5 @@ img.fix-nineteen {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003852}}
 #superfish-2 {
   font-size: 80%; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003858}}
-.tab {
-  border-radius: 10px;
-  background-color: transperant;
-  background-image: -webkit-linear-gradient(top, transperant, #2F3329);
-  background-image: linear-gradient(to bottom,transperant, #2F3329);
-  box-shadow: #2F3329 2px 2px 10px;
-  padding: 0.5em;
-  margin: 0.75em; }
 
 /*# sourceMappingURL=style.css.map */
