@@ -3775,9 +3775,9 @@ H2 a {
 li.twitter-list-item {
   padding-right: 10px;
   padding-left: 10px;
-  font-size: 65%;
+  font-size: 55%;
   font-weight: normal;
-  line-height: 115%;
+  line-height: 105%;
   -webkit-hyphens: auto;
      -moz-hyphens: auto;
       -ms-hyphens: auto;
@@ -3924,6 +3924,140 @@ img.fix-nineteen {
   background-color: white;
   background-image: -webkit-linear-gradient(top, white, #FFDFDF);
   background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003749}}
+#block-views-upcoming_dahlia_tours-block_1 {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003757}}
+#block-views-upcoming_hank_tours-block_1 {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003767}}
+#block-views-9c0536ffd4574e96c86361f520558e9a {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003775}}
+#block-views-upcoming_route66_tours-block_1 {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003783}}
+#block-views-upcoming_westside_tours-block_1 {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003793}}
+#block-views-13e74082cb57c9f1ff8e189124d45e19 {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003800}}
+#block-views-upcoming_southla_tours-block_1 {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003808}}
+#block-views-upcoming_waits_tours-block_1 {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003817}}
+#block-views-db441e1396f5e12a83104b88bc20184d {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003824}}
+#block-views-upcoming_cain_tours-block_1 {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003831}}
+#block-views-upcoming_bnd_tours-block_1 {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em;
+  /* This element holds injected scripts inside iframes that in some cases may stretch layouts. So, we're just hiding it. */ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003843}}
+#fb-root {
+  display: none;
+  /* To fill the container and nothing else */ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003849}}
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+  width: 100% !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003852}}
+#superfish-2 {
+  font-size: 80%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003858}}
+.tab {
+  border-radius: 10px;
+  background-color: transperant;
+  background-image: -webkit-linear-gradient(top, transperant, #2F3329);
+  background-image: linear-gradient(to bottom,transperant, #2F3329);
   box-shadow: #2F3329 2px 2px 10px;
   padding: 0.5em;
   margin: 0.75em; }
