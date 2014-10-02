@@ -3346,18 +3346,6 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003297}}
-.tab {
-  color: heavy-metal;
-  display: block;
-  height: 0px;
-  margin: 1em;
-  padding: 1em;
-  line-height: 1em;
-  border-top-left-radius: 2px;
-  border-top-right-radius: 2px;
-  box-shadow: red 2px 2px 10px; }
-
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003199}}
 input.f99 {
   border-radius: 4px;
@@ -4048,19 +4036,39 @@ img.fix-nineteen {
   background-image: linear-gradient(to bottom,white, #FFDFDF);
   box-shadow: #2F3329 2px 2px 10px;
   padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003838}}
+#block-views-upcoming_river_tours-block_1 {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
+  margin: 0.75em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003847}}
+#block-views-73fca324d2f295fec29c924e103eb6e8 {
+  border-radius: 3px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(top, white, #FFDFDF);
+  background-image: linear-gradient(to bottom,white, #FFDFDF);
+  box-shadow: #2F3329 2px 2px 10px;
+  padding: 0.5em;
   margin: 0.75em;
   /* This element holds injected scripts inside iframes that in some cases may stretch layouts. So, we're just hiding it. */ }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003843}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003860}}
 #fb-root {
   display: none;
   /* To fill the container and nothing else */ }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003849}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003866}}
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003852}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003869}}
 #superfish-2 {
   font-size: 80%; }
 
