@@ -3346,6 +3346,66 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003313}}
+#footer {
+  clear: both;
+  float: left;
+  width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003318}}
+#footer p {
+  margin-left: 2%;
+  padding-right: 2%; }
+
+/* Start of Column CSS */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003324}}
+#container3 {
+  margin-top: 1em;
+  padding-top: 1em;
+  clear: left;
+  float: left;
+  width: 100%;
+  overflow: hidden; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003333}}
+#container2 {
+  clear: left;
+  float: left;
+  width: 100%;
+  position: relative;
+  right: 33.333%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003341}}
+#container1 {
+  float: left;
+  width: 100%;
+  position: relative;
+  right: 33.33%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003348}}
+#col1 {
+  float: left;
+  width: 29.33%;
+  position: relative;
+  left: 68.67%;
+  overflow: hidden; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003355}}
+#col2 {
+  float: left;
+  width: 29.33%;
+  position: relative;
+  left: 72.67%;
+  overflow: hidden; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003362}}
+#col3 {
+  float: left;
+  width: 29.33%;
+  position: relative;
+  left: 76.67%;
+  overflow: hidden; }
+
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003199}}
 input.f99 {
   border-radius: 4px;
