@@ -3894,8 +3894,7 @@ p.nineteen {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003649}}
 p.blog-teaser {
-  font-size: 66%;
-  font-weight: 700; }
+  font-size: 66%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003655}}
 .submitted {
@@ -4132,5 +4131,10 @@ img.fix-nineteen {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003870}}
 #superfish-2 {
   font-size: 80%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003874}}
+p.about-us {
+  font-size: 66%;
+  font-weight: 700; }
 
 /*# sourceMappingURL=style.css.map */
