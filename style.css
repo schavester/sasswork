@@ -3833,8 +3833,8 @@ H2 a {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003595}}
 li.twitter-list-item {
-  padding-right: 10px;
-  padding-left: 10px;
+  padding-right: 3px;
+  padding-left: 3px;
   font-size: 55%;
   font-weight: normal;
   line-height: 105%;
@@ -3842,8 +3842,8 @@ li.twitter-list-item {
      -moz-hyphens: auto;
       -ms-hyphens: auto;
           hyphens: auto;
-  right-margin: 10px;
-  left-margin: 10px;
+  right-margin: 3px;
+  left-margin: 3px;
   top-margin: 3em;
   bottom-margin: 3em;
   top-padding: 3em;
@@ -3894,7 +3894,7 @@ p.nineteen {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003649}}
 p.blog-teaser {
-  font-size: 65%; }
+  font-size: 70%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003654}}
 .submitted {
