@@ -3172,26 +3172,26 @@ body {
 h1#sitename a {
   display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\0000388}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\0000389}}
 .even {
   padding-bottom: .5em;
   border-radius: 10px;
   background-color: transparent;
-  background-image: -webkit-linear-gradient(top, transparent, rgba(0, 0, 0, 0.17));
-  background-image: linear-gradient(to bottom,transparent, rgba(0, 0, 0, 0.17)); }
+  background-image: -webkit-linear-gradient(top, transparent, #FFFADF);
+  background-image: linear-gradient(to bottom,transparent, #FFFADF); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003102}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003103}}
 .odd {
   padding-bottom: .5em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003114}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003115}}
 ul {
   list-style-type: none;
   padding-left: 0;
   margin-left: 1em;
   margin-right: 1em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003123}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003124}}
 ul.bustour-list {
   list-style-type: none;
   background: #FFF2DF;
@@ -3209,7 +3209,7 @@ ul.bustour-list {
   -webkit-border-bottom-right-radius: 6px;
   -webkit-border-bottom-left-radius: 6px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003141}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003142}}
 li {
   padding-right: 10px;
   padding-left: 10px;
@@ -3221,7 +3221,7 @@ li {
       -ms-hyphens: auto;
           hyphens: auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003153}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003154}}
 li.bustour-list-item {
   border-top: 1px dotted #3c3c3c;
   right-margin: 10px;
@@ -3231,40 +3231,40 @@ li.bustour-list-item {
   top-padding: 3em;
   bottom-padding: 3em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003180}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003181}}
 li:first-child {
   border-top: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003184}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003185}}
 li:last-child {
   border-bottom: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003189}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003190}}
 p.p-indent {
   margin-top: 0em;
   margin-bottom: 1em;
   text-indent: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003202}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003203}}
 .colmask {
   position: relative;
   overflow: hidden;
   margin: 0px auto;
   width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003212}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003213}}
 .colmid {
   position: relative;
   width: 100%;
   right: 23%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003220}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003221}}
 .colleft {
   position: relative;
   width: 100%;
   right: 41%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003228}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003229}}
 .col1 {
   position: relative;
   overflow: hidden;
@@ -3280,7 +3280,7 @@ p.p-indent {
   -webkit-border-bottom-left-radius: 6px;
   padding: 1em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003242}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003243}}
 .col2 {
   position: relative;
   overflow: hidden;
@@ -3296,7 +3296,7 @@ p.p-indent {
   -webkit-border-bottom-left-radius: 6px;
   padding: 1em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003255}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003256}}
 .col3 {
   position: relative;
   overflow: hidden;
@@ -3312,7 +3312,7 @@ p.p-indent {
   -webkit-border-bottom-left-radius: 6px;
   padding: 1em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003269}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003270}}
 .header {
   text-align: center;
   float: left;
@@ -3333,28 +3333,28 @@ Make the Facebook Like box responsive (fluid width)
 https://developers.facebook.com/docs/reference/plugins/like-box/
 */
 /* This element holds injected scripts inside iframes that in some cases may stretch layouts. So, we're just hiding it. */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003285}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003286}}
 #fb-root {
   display: none; }
 
 /* To fill the container and nothing else */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003290}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003291}}
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003317}}
 #footer {
   clear: both;
   float: left;
   width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003322}}
 #footer p {
   margin-left: 2%;
   padding-right: 2%; }
 
 /* Start of Column CSS */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003328}}
 #container3 {
   margin-top: 1em;
   padding-top: 1em;
@@ -3363,7 +3363,7 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
   width: 100%;
   overflow: hidden; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003337}}
 #container2 {
   clear: left;
   float: left;
@@ -3371,14 +3371,14 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
   position: relative;
   right: 33.333%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003345}}
 #container1 {
   float: left;
   width: 100%;
   position: relative;
   right: 33.33%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003352}}
 #col1 {
   float: left;
   width: 29.33%;
@@ -3386,7 +3386,7 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
   left: 68.67%;
   overflow: hidden; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003359}}
 #col2 {
   float: left;
   width: 29.33%;
@@ -3394,7 +3394,7 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
   left: 72.67%;
   overflow: hidden; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003365}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/_custom\.scss}line{font-family:\00003366}}
 #col3 {
   float: left;
   width: 29.33%;
@@ -3855,8 +3855,8 @@ li.views-row-even {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003621}}
 li.views-row-odd {
   background-color: white;
-  background-image: -webkit-linear-gradient(top, white, #ffb599);
-  background-image: linear-gradient(to bottom,white, #ffb599);
+  background-image: -webkit-linear-gradient(top, white, #FBCEB1);
+  background-image: linear-gradient(to bottom,white, #FBCEB1);
   padding: 1em;
   magin: 1em; }
 
