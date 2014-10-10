@@ -3855,8 +3855,8 @@ li.views-row-even {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003621}}
 li.views-row-odd {
   background-color: white;
-  background-image: -webkit-linear-gradient(top, white, #CC3700);
-  background-image: linear-gradient(to bottom,white, #CC3700);
+  background-image: -webkit-linear-gradient(top, white, #ffb599);
+  background-image: linear-gradient(to bottom,white, #ffb599);
   padding: 1em;
   magin: 1em; }
 
