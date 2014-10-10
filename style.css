@@ -4208,4 +4208,8 @@ p.about-us {
 .panel-separator {
   height: 5px !important; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003972}}
+.footer {
+  font-size: 65%; }
+
 /*# sourceMappingURL=style.css.map */
