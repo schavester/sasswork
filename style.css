@@ -4138,12 +4138,11 @@ img.fix-nineteen {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003895}}
 #superfish-2 {
-  font-size: 100%; }
+  font-size: 110%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003899}}
 p.about-us {
-  font-size: 66%;
-  font-weight: 700; }
+  font-size: 70%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003908}}
 #node-1403 h2 {
@@ -4207,6 +4206,10 @@ p.about-us {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003975}}
 .footer {
-  font-size: 40%; }
+  font-size: 50%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003981}}
+#node-1382 {
+  text-align: center; }
 
 /*# sourceMappingURL=style.css.map */
