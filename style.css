@@ -4137,7 +4137,7 @@ img.fix-nineteen {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003894}}
 #superfish-2 {
-  font-size: 85%; }
+  font-size: 110%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\00003898}}
 p.about-us {
@@ -4243,8 +4243,22 @@ p.about-us {
 p.lost-la {
   font-size: 80%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\000031013}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\000031015}}
 .node-1947blogentry H2 {
   display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\000031020}}
+.faq-ul-questions-top a:link {
+  color: red;
+  font-size: 120%;
+  line-height: 1.2em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\000031025}}
+.faq-ul-questions-top a:hover {
+  color: #F87431; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/alquin\/Documents\/06-upgradesAllSites\/esotouric\/6-MIgrate-7\/Theme\/basic\/sass\/style\.sass}line{font-family:\000031028}}
+.faq-ul-questions-top a:visited {
+  color: #E77471; }
 
 /*# sourceMappingURL=style.css.map */
